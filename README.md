@@ -12,8 +12,8 @@ This repository hosts a project focused on the development of reusable component
   - Outlined Buttons
   - Outlined Icon Buttons
   - Link Buttons
-  
-![Buttons Design](./Images/Buttons.png);
+  ![Buttons Design](./Images/Buttons.png)
+- Banners
 - Forms
 - Warnings
 - Cards
